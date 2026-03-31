@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/ashraf-p/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/dev-ashrafpk"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="mailto:ashrafpeng@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://ashraf-dev.netlify.app"><img src="https://img.shields.io/badge/Portfolio-ef6d58?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/></a>
+<a href="https://ashrafpk.com"><img src="https://img.shields.io/badge/Portfolio-ef6d58?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/></a>
 
 </div>
 
@@ -20,7 +20,7 @@ name: Ashraf P
 role: Senior Software Engineer
 location: India
 focus: Full-Stack Development | AI & LLM Integration | Cloud Architecture
-experience: 4+ years building enterprise-grade applications
+experience: 6+ years building enterprise-grade applications
 current: Designing multi-agent AI systems & scalable cloud platforms
 ```
 
@@ -76,12 +76,12 @@ current: Designing multi-agent AI systems & scalable cloud platforms
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-ashrafpk&show_icons=true&theme=radical&hide_border=true&bg_color=0e1011&title_color=ef6d58&icon_color=3b82f6&text_color=ffffff&ring_color=ef6d58" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ashrafpk&layout=compact&theme=radical&hide_border=true&bg_color=0e1011&title_color=ef6d58&text_color=ffffff&langs_count=8" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-ashrafpk&show_icons=true&hide_border=true&bg_color=0e1011&title_color=ef6d58&icon_color=3b82f6&text_color=ffffff&ring_color=ef6d58&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ashrafpk&layout=compact&hide_border=true&bg_color=0e1011&title_color=ef6d58&text_color=ffffff&langs_count=8" height="170" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-ashrafpk&theme=radical&hide_border=true&background=0e1011&stroke=ef6d58&ring=ef6d58&fire=ef6d58&currStreakLabel=ef6d58&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=dev-ashrafpk&hide_border=true&background=0e1011&stroke=ef6d58&ring=ef6d58&fire=ef6d58&currStreakLabel=ef6d58&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="GitHub Streak" />
 </div>
 
 ---
@@ -106,7 +106,28 @@ current: Designing multi-agent AI systems & scalable cloud platforms
 
 <div align="center">
 
-[![Ashraf's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-ashrafpk&theme=react-dark&hide_border=true&bg_color=0e1011&color=ef6d58&line=3b82f6&point=ef6d58&area=true&area_color=ef6d58)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashraf's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-ashrafpk&bg_color=0e1011&color=ef6d58&line=3b82f6&point=ef6d58&area=true&area_color=ef6d58&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/dev-ashrafpk/medical">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-ashrafpk&repo=medical&hide_border=true&bg_color=0e1011&title_color=ef6d58&icon_color=3b82f6&text_color=ffffff" />
+</a>
+<a href="https://github.com/dev-ashrafpk/auto-ui">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-ashrafpk&repo=auto-ui&hide_border=true&bg_color=0e1011&title_color=ef6d58&icon_color=3b82f6&text_color=ffffff" />
+</a>
+<a href="https://github.com/dev-ashrafpk/auto-components">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-ashrafpk&repo=auto-components&hide_border=true&bg_color=0e1011&title_color=ef6d58&icon_color=3b82f6&text_color=ffffff" />
+</a>
+<a href="https://github.com/dev-ashrafpk/portfolio-ashraf">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-ashrafpk&repo=portfolio-ashraf&hide_border=true&bg_color=0e1011&title_color=ef6d58&icon_color=3b82f6&text_color=ffffff" />
+</a>
 
 </div>
 
@@ -119,7 +140,7 @@ current: Designing multi-agent AI systems & scalable cloud platforms
 *I'm always open to discussing new projects, creative ideas, or opportunities to be part of something amazing.*
 
 <a href="https://www.linkedin.com/in/ashraf-p/"><img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
-<a href="https://ashraf-dev.netlify.app"><img src="https://img.shields.io/badge/View_Portfolio-ef6d58?style=for-the-badge&logo=safari&logoColor=white" alt="View Portfolio"/></a>
+<a href="https://ashrafpk.com"><img src="https://img.shields.io/badge/View_Portfolio-ef6d58?style=for-the-badge&logo=safari&logoColor=white" alt="View Portfolio"/></a>
 
 <br/><br/>
 
